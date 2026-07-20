@@ -5,6 +5,7 @@ const nextConfig = {
       { protocol: "https", hostname: "i.pravatar.cc" },
     ],
   },
+  output: "export",
 };
 
 export default nextConfig;
